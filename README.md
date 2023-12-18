@@ -8,9 +8,10 @@ We are working with a dataset that contains 41 attributes related to vehicle loa
 # Objectives
 The primary objectives of this project are as follows:
 
-Identify and analyze the key factors that influence the likelihood of vehicle loan defaults.
-Develop a predictive model that can accurately forecast potential loan defaulters based on the identified factors.
-Provide insights and recommendations to financial institutions for improving their loan approval processes and reducing default rates.
++ Identify and analyze the key factors that influence the likelihood of vehicle loan defaults.
++ Develop a predictive model that can accurately forecast potential loan defaulters based on the identified factors.
++ Provide insights and recommendations to financial institutions for improving their loan approval processes and reducing default rates.
+
 By addressing these objectives, we aim to assist financial institutions in making more informed decisions when approving vehicle loan applications, ultimately reducing the risks associated with defaults and optimizing their lending practices.
 
 
