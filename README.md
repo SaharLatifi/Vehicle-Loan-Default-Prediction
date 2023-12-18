@@ -14,6 +14,8 @@ The primary objectives of this project are as follows:
 
 By addressing these objectives, we aim to assist financial institutions in making more informed decisions when approving vehicle loan applications, ultimately reducing the risks associated with defaults and optimizing their lending practices.
 
+[PowerBI Dashboard]([URL](https://app.powerbi.com/view?r=eyJrIjoiMzA2NmZlZTUtNzNmNy00MTQ2LTlhZTYtZjdkMTI5MDIwNzMwIiwidCI6IjM2Zjk5MzhhLTBiZjQtNGQ4OC1hNTYwLTJiMDdiYThmMGMzNCJ9)https://app.powerbi.com/view?r=eyJrIjoiMzA2NmZlZTUtNzNmNy00MTQ2LTlhZTYtZjdkMTI5MDIwNzMwIiwidCI6IjM2Zjk5MzhhLTBiZjQtNGQ4OC1hNTYwLTJiMDdiYThmMGMzNCJ9)
+
 
 
 
