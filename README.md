@@ -20,8 +20,7 @@ By addressing these objectives, we aim to assist financial institutions in makin
 + Feature Selection & Importance Analysis: Identifying the primary factors contributing to loan defaults.
 + Model Development: Using logistic regression to build a predictive model for identifying potential defaulters.
 + Evaluation: Assessing the model's accuracy.
-+ [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzA2NmZlZTUtNzNmNy00MTQ2LTlhZTYtZjdkMTI5MDIwNzMwIiwidCI6IjM2Zjk5MzhhLTBiZjQtNGQ4OC1hNTYwLTJiMDdiYThmMGMzNCJ9)
-
++ [PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzA2NmZlZTUtNzNmNy00MTQ2LTlhZTYtZjdkMTI5MDIwNzMwIiwidCI6IjM2Zjk5MzhhLTBiZjQtNGQ4OC1hNTYwLTJiMDdiYThmMGMzNCJ9)
 
 
 
