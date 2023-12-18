@@ -14,9 +14,13 @@ The primary objectives of this project are as follows:
 
 By addressing these objectives, we aim to assist financial institutions in making more informed decisions when approving vehicle loan applications, ultimately reducing the risks associated with defaults and optimizing their lending practices.
 
-[PowerBI Dashboard]([URL](https://app.powerbi.com/view?r=eyJrIjoiMzA2NmZlZTUtNzNmNy00MTQ2LTlhZTYtZjdkMTI5MDIwNzMwIiwidCI6IjM2Zjk5MzhhLTBiZjQtNGQ4OC1hNTYwLTJiMDdiYThmMGMzNCJ9)https://app.powerbi.com/view?r=eyJrIjoiMzA2NmZlZTUtNzNmNy00MTQ2LTlhZTYtZjdkMTI5MDIwNzMwIiwidCI6IjM2Zjk5MzhhLTBiZjQtNGQ4OC1hNTYwLTJiMDdiYThmMGMzNCJ9)
 
-
+# Key Deliverables
++ Exploratory Data Analysis (EDA): Understanding the characteristics of the data, treating missing values, and handling outliers.
++ Feature Selection & Importance Analysis: Identifying the primary factors contributing to loan defaults.
++ Model Development: Using logistic regression to build a predictive model for identifying potential defaulters.
++ Evaluation: Assessing the model's accuracy.
++ [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzA2NmZlZTUtNzNmNy00MTQ2LTlhZTYtZjdkMTI5MDIwNzMwIiwidCI6IjM2Zjk5MzhhLTBiZjQtNGQ4OC1hNTYwLTJiMDdiYThmMGMzNCJ9)
 
 
 
